@@ -1,0 +1,25 @@
+{
+  "lists": [
+    {
+      "title": "Hello World",
+      "id": 1
+    }
+  ],
+  "tasks": [
+    {
+      "title": "Learning React",
+      "listId": "1",
+      "id": 1
+    },
+    {
+      "title": "Surfing",
+      "listId": "1",
+      "id": 2
+    },
+    {
+      "title": "Coding",
+      "listId": "1",
+      "id": 3
+    }
+  ]
+}
